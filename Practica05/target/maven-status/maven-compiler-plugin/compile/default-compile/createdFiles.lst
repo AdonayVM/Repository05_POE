@@ -1,0 +1,8 @@
+module-info.class
+model\CategoriesRepository.class
+model\Producto.class
+controller\App.class
+model\ProductoRepository.class
+helpers\Dialogs.class
+controller\TiendaController.class
+controller\NewTiendaController.class
